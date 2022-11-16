@@ -13,4 +13,4 @@
 
 ## В данной репозитории представлен backend приложения, но вы всегда можете перейти в другие репозитории по этим ссылкам:
 - [Frontend](https://github.com/TheTargetAdam/front):point_left:
-- [Документы](https://github.com/TheTargetAdam/docs-):point_left:
+- [Документация](https://github.com/TheTargetAdam/docs-):point_left:
