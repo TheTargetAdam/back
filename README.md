@@ -10,3 +10,7 @@
 - [Курсовая работа](https://github.com/TheTargetAdam/docs-/blob/main/Kursovaya.pdf):pushpin:
 - [Презентация](https://github.com/TheTargetAdam/docs-/blob/main/Kursovaya_prez.pdf):pushpin:
 - [Trello](https://trello.com/202297922533):pushpin:
+
+## В данной репозитории представлен backend приложения, но вы всегда можете перейти в другие репозитории по этим ссылкам:
+- [Frontend](https://github.com/TheTargetAdam/front)
+- [Документы](https://github.com/TheTargetAdam/docs-)
