@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rewriter", "rewriter\rewriter.csproj", "{1687DBCD-D3B7-4C24-B4CC-74797D7EE0DF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{4157AA06-CC83-4C82-BC87-E97BAF1F4C1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Db.Context", "Db.Context\Db.Context.csproj", "{01CC0F94-DBC2-48C8-AB24-A103A682FC5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Db.Entities", "Db.Entities\Db.Entities.csproj", "{9683A760-105F-404B-8F10-D3F309315670}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "System", "System", "{52748A7A-01BD-40F3-BCC0-BCF641DA8F8F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{04FF65E5-5C25-4686-B2AF-242C73F65142}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rewriter.Services", "rewriter.Services\rewriter.Services.csproj", "{06243FFC-4ADF-4384-BEEA-80F229BB51C5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docker-compose", "docker-compose", "{011B8ADD-9FCF-43D2-A736-4999A631985B}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.override.yml = docker-compose.override.yml
+		docker-compose.yml = docker-compose.yml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{458E82B9-9B57-438F-BAFE-EFB2D10FAB30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared.Common", "Shared.Common\Shared.Common.csproj", "{DF80C257-EE1E-4147-B5B7-F5ED49EDC047}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1687DBCD-D3B7-4C24-B4CC-74797D7EE0DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1687DBCD-D3B7-4C24-B4CC-74797D7EE0DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1687DBCD-D3B7-4C24-B4CC-74797D7EE0DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1687DBCD-D3B7-4C24-B4CC-74797D7EE0DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01CC0F94-DBC2-48C8-AB24-A103A682FC5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01CC0F94-DBC2-48C8-AB24-A103A682FC5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01CC0F94-DBC2-48C8-AB24-A103A682FC5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01CC0F94-DBC2-48C8-AB24-A103A682FC5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9683A760-105F-404B-8F10-D3F309315670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9683A760-105F-404B-8F10-D3F309315670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9683A760-105F-404B-8F10-D3F309315670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9683A760-105F-404B-8F10-D3F309315670}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06243FFC-4ADF-4384-BEEA-80F229BB51C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06243FFC-4ADF-4384-BEEA-80F229BB51C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06243FFC-4ADF-4384-BEEA-80F229BB51C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06243FFC-4ADF-4384-BEEA-80F229BB51C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF80C257-EE1E-4147-B5B7-F5ED49EDC047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF80C257-EE1E-4147-B5B7-F5ED49EDC047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF80C257-EE1E-4147-B5B7-F5ED49EDC047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF80C257-EE1E-4147-B5B7-F5ED49EDC047}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1687DBCD-D3B7-4C24-B4CC-74797D7EE0DF} = {52748A7A-01BD-40F3-BCC0-BCF641DA8F8F}
+		{01CC0F94-DBC2-48C8-AB24-A103A682FC5B} = {4157AA06-CC83-4C82-BC87-E97BAF1F4C1F}
+		{9683A760-105F-404B-8F10-D3F309315670} = {4157AA06-CC83-4C82-BC87-E97BAF1F4C1F}
+		{06243FFC-4ADF-4384-BEEA-80F229BB51C5} = {04FF65E5-5C25-4686-B2AF-242C73F65142}
+		{DF80C257-EE1E-4147-B5B7-F5ED49EDC047} = {458E82B9-9B57-438F-BAFE-EFB2D10FAB30}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BA04C8D-D87E-42BE-B7E1-6AD90B837E08}
+	EndGlobalSection
+EndGlobal

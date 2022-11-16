@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1687dbcd-d3b7-4c24-b4cc-74797d7ee0df": {
+      "ProjectGuid": "1687dbcd-d3b7-4c24-b4cc-74797d7ee0df",
+      "DisplayName": "rewriter",
+      "ColorIndex": 0
+    },
+    "06243ffc-4adf-4384-beea-80f229bb51c5": {
+      "ProjectGuid": "06243ffc-4adf-4384-beea-80f229bb51c5",
+      "DisplayName": "rewriter.Services",
+      "ColorIndex": 1
+    },
+    "01cc0f94-dbc2-48c8-ab24-a103a682fc5b": {
+      "ProjectGuid": "01cc0f94-dbc2-48c8-ab24-a103a682fc5b",
+      "DisplayName": "Db.Context",
+      "ColorIndex": 2
+    },
+    "df80c257-ee1e-4147-b5b7-f5ed49edc047": {
+      "ProjectGuid": "df80c257-ee1e-4147-b5b7-f5ed49edc047",
+      "DisplayName": "Shared.Common",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "9683a760-105f-404b-8f10-d3f309315670": {
+      "ProjectGuid": "9683a760-105f-404b-8f10-d3f309315670",
+      "DisplayName": "Db.Entities",
+      "ColorIndex": 4
+    },
+    "011b8add-9fcf-43d2-a736-4999a631985b": {
+      "ProjectGuid": "011b8add-9fcf-43d2-a736-4999a631985b",
+      "DisplayName": "docker-compose",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

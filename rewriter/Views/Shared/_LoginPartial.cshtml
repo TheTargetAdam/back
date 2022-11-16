@@ -1,0 +1,27 @@
+﻿@*@using microsoft.aspnetcore.identity
+@inject signinmanager<identityuser> signinmanager
+@inject usermanager<identityuser> usermanager
+
+<ul class="navbar-nav">
+@if (signinmanager.issignedin(user))
+{
+    <li class="nav-item">
+        <a  class="nav-link text-dark" asp-area="identity" asp-page="/account/manage/index" title="manage">hello @user.identity?.name!</a>
+    </li>
+    <li class="nav-item">
+        <form  class="form-inline" asp-area="identity" asp-page="/account/logout" asp-route-returnurl="@url.action("index", "home", new { area = "" })">
+            <button  type="submit" class="nav-link btn btn-link text-dark">logout</button>
+        </form>
+    </li>
+}
+else
+{
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="identity" asp-page="/account/register">register</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="identity" asp-page="/account/login">login</a>
+    </li>
+}
+</ul>
+*@
