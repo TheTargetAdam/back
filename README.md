@@ -6,6 +6,7 @@
 ## Команда разработчиков(я, к сожалению, тут один)
 #### -Воробьёв Адам Николаевич
 ## Также предоставлю нужные ссылки, чтоб вы лучше смогли разобраться в проекте:
-- [Техническое задание](https://github.com/TheTargetAdam/docs-/blob/main/Tekhnicheskoe_zadanie.pdf)
-- [Курсовая работа](https://github.com/TheTargetAdam/docs-/blob/main/Kursovaya.pdf)
-- [Презентация](https://github.com/TheTargetAdam/docs-/blob/main/Kursovaya_prez.pdf)
+- [Техническое задание](https://github.com/TheTargetAdam/docs-/blob/main/Tekhnicheskoe_zadanie.pdf):pushpin:
+- [Курсовая работа](https://github.com/TheTargetAdam/docs-/blob/main/Kursovaya.pdf):pushpin:
+- [Презентация](https://github.com/TheTargetAdam/docs-/blob/main/Kursovaya_prez.pdf):pushpin:
+- [Trello](https://trello.com/202297922533):pushpin:
