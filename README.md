@@ -8,9 +8,13 @@
 ## Также предоставлю нужные ссылки, чтоб вы лучше смогли разобраться в проекте:
 - [Техническое задание](https://github.com/TheTargetAdam/docs-/blob/main/Tekhnicheskoe_zadanie.pdf):pushpin:
 - [Курсовая работа](https://github.com/TheTargetAdam/docs-/blob/main/Kursovaya.pdf):pushpin:
-- [Презентация](https://github.com/TheTargetAdam/docs-/blob/main/Kursovaya_prez.pdf):pushpin:
-- [Trello](https://trello.com/202297922533):pushpin:
-- [Jira](https://www.atlassian.com/ru/software/jira3):pushpin:
+- [Презентация по курсовой](https://github.com/TheTargetAdam/docs-/blob/main/Kursovaya_prez.pptx):pushpin:
+- [Trello](https://trello.com/b/6tiVTElm/сайт-youfree):pushpin:
+- [Miro](https://miro.com/welcomeonboard/SDNMOXZoRnh1S296N3ZHVU53bHh1WnNjcGx4bjVXa3FCY3lkN1N3TWZJcnhnQzJMY0swVnRkSEMxOXdSbURVb3wzNDU4NzY0NTM4OTI2Mjk2ODkwfDI=?share_link_id=395207601280):pushpin:
+- [Figma](https://www.figma.com/file/new/Untitled?t=sONgqNzdeuh8NXKc-0) 
+Дополнение: Не работал на figma, но для демонстрации решил сделать дизайн для этого проекта в будущем, но почему то слетела ссылка, не знаю, может не запускается только у меня.По ходу работы сохранил главную страницу, чтоб посмотреть надо клинкнуть [сюда](https://github.com/TheTargetAdam/docs-/blob/main/UFree.jpg) не знаю в чем проблема, во время создания дизайна выкинуло на почту:pushpin:
+- [Видео с кодом и работой проекта](https://github.com/TheTargetAdam/docs-/blob/main/Bandicam.mp4)
+- [Видео с презентацией(защитой проекта)](https://github.com/TheTargetAdam/docs-/blob/main/BandicamPrez.mp4)
 
 ## В данной репозитории представлен backend приложения, но вы всегда можете перейти в другие репозитории по этим ссылкам:
 - [Frontend](https://github.com/TheTargetAdam/front):point_left:
